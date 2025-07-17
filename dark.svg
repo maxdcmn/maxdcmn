@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="monospace" width="985px" height="205px" font-size="16px">
+<style>
+@font-face {
+-webkit-size-adjust: 109%;
+size-adjust: 109%}
+.key {fill: #ffa657}
+.value {fill: #96d0f9}
+.cc {fill: #616e7f}
+text, tspan {white-space: pre}
+</style>
+<rect width="985px" height="205px" fill="#161b22" rx="15"/>
+<text fill="#c9d1d9">
+<tspan x="15" y="30">— maxdcmn</tspan> —————————————————————————————————————————————————————————————————————————————————————————
+<tspan x="15" y="50" class="cc">. </tspan><tspan class="value">I’m a machine learning engineer who specializes in building scalable data pipelines and practical</tspan>
+<tspan x="16" y="70" class="cc">. </tspan><tspan class="value">solutions that solve real problems. I also enjoy full-stack web development and building software</tspan>
+<tspan x="16" y="100">— Programming Languages</tspan> —————————————————————————————————————————— Contact ————————————————————————
+<tspan x="16" y="120" class="cc">. </tspan><tspan class="key">General Purpose</tspan>: <tspan class="cc">................</tspan><tspan class="value"> Python, TypeScript, Java, C#</tspan> | <tspan class="key">LinkedIn</tspan>: <tspan class="cc">...........</tspan><tspan class="value"> max-decman</tspan>
+<tspan x="16" y="140" class="cc">. </tspan><tspan class="key">Machine Learning</tspan>: <tspan class="cc">..........</tspan><tspan class="value"> PyTorch, Tensorflow, Scikit-learn</tspan> | <tspan class="cc">................................ </tspan>
+<tspan x="16" y="160" class="cc">. </tspan><tspan class="key">Databases</tspan>: <tspan class="cc">........................</tspan><tspan class="value"> MySQL, PostgreSQL, MongoDB</tspan> | <tspan class="cc">................................</tspan>
+<tspan x="16" y="180" class="cc">. </tspan><tspan class="key">Web Frameworks</tspan>: <tspan class="cc">...............................</tspan><tspan class="value"> React, Angular</tspan> | <tspan class="cc">................................</tspan>
+</text></svg>
