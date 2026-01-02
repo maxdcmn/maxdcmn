@@ -1,22 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="monospace" width="985px" height="205px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="monospace" width="750px" height="290px" font-size="16px">
 <style>
 @font-face {
 -webkit-size-adjust: 109%;
 size-adjust: 109%}
-.key {fill: #ffa657}
+.key {fill: #8492ff}
 .value {fill: #96d0f9}
-.cc {fill: #616e7f}
+.cc {fill: #3d4856}
 text, tspan {white-space: pre}
-</style>
-<rect width="985px" height="205px" fill="#161b22" rx="15"/>
-<text fill="#c9d1d9">
-<tspan x="15" y="30">— maxdcmn</tspan> —————————————————————————————————————————————————————————————————————————————————————————
-<tspan x="15" y="50" class="cc">. </tspan><tspan class="value">I’m a machine learning engineer who specializes in building scalable data pipelines and practical</tspan>
-<tspan x="16" y="70" class="cc">. </tspan><tspan class="value">solutions that solve real problems. I also enjoy full-stack web development and building software</tspan>
-<tspan x="16" y="100">— Programming Languages</tspan> —————————————————————————————————————————— Contact ————————————————————————
-<tspan x="16" y="120" class="cc">. </tspan><tspan class="key">General Purpose</tspan>: <tspan class="cc">...........</tspan><tspan class="value"> Python, C++, TypeScript, Java, C#</tspan> | <tspan class="key">LinkedIn</tspan>: <tspan class="cc">...........</tspan><tspan class="value"> max-decman</tspan>
-<tspan x="16" y="140" class="cc">. </tspan><tspan class="key">Machine Learning</tspan>: <tspan class="cc">..............................</tspan><tspan class="value"> PyTorch, CUDA</tspan> | <tspan class="cc">................................ </tspan>
-<tspan x="16" y="160" class="cc">. </tspan><tspan class="key">Databases</tspan>: <tspan class="cc">...............................</tspan><tspan class="value"> PostgreSQL, MongoDB</tspan> | <tspan class="cc">................................</tspan>
-<tspan x="16" y="180" class="cc">. </tspan><tspan class="key">Web Frameworks</tspan>: <tspan class="cc">...............................</tspan><tspan class="value"> React, Angular</tspan> | <tspan class="cc">................................</tspan>
+</style>#2f3c45
+<rect width="750px" height="290px" fill="#161b22" rx="15"/>
+<text fill="#ececec">
+<tspan x="15" y="30" >⠀⠀⠀⠀⠆⣺⣆⣠⣤⣀⣄⣀⣀⣀⠀⠀⠀⠀⠀⠀ |— </tspan>maxdcmn ————————————————————————————————————————
+<tspan x="15" y="50" >⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣧⠄⠀⠀ | </tspan><tspan class="value">I build and study ML systems, focusing on</tspan><tspan class="cc"> .......</tspan>
+<tspan x="15" y="70" >⠀⢀⣄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ | </tspan><tspan class="value">reliability and practical deployment.</tspan><tspan class="cc"> ...........</tspan>
+<tspan x="15" y="90" >⠀⠈⣿⣿⣿⣿⣿⠏⠉⠉⠉⠙⠻⣿⣿⣿⣿⣿⡇⠀ | </tspan><tspan class="cc">.................................................</tspan>
+<tspan x="15" y="110">⠀⠘⢻⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⡇⠀ |— </tspan>Tech ———————————————————————————————————————————
+<tspan x="15" y="130">⠀⠀⠈⢻⣿⣿⡧⣤⣀⠀⠀⢀⣀⣠⡀⢹⣿⣿⢛⠂ | </tspan><tspan class="key">General Purpose</tspan>: <tspan class="cc">..</tspan><tspan class="value"> Python, C++, Java, TypeScript</tspan>
+<tspan x="15" y="150">⠀⠀⠀⢸⣿⣯⠛⠙⢻⡇⠘⠿⠖⠒⠁⠀⡏⣻⣌⡇ | </tspan><tspan class="key">Databases</tspan>: <tspan class="cc">..................</tspan><tspan class="value"> PostgreSQL, MongoDB</tspan>
+<tspan x="15" y="170">⠀⠀⠀⠈⢹⣟⢀⣤⣿⡇⢀⡢⡀⠀⠀⠠⢀⠟⠉⠁ | </tspan><tspan class="key">Machine Learning</tspan>: <tspan class="cc">.................</tspan><tspan class="value"> PyTorch, CUDA</tspan>
+<tspan x="15" y="190">⠀⠀⠀⢀⣼⣏⠙⣿⠿⠍⠭⠠⡈⠀⢀⣾⣷⣭⣥⣀ | </tspan><tspan class="key">Web Frameworks</tspan>: <tspan class="cc">.........</tspan><tspan class="value"> Next.js, React, Angular</tspan>
+<tspan x="15" y="210">⣠⣴⣾⣿⣿⣿⣧⡺⡗⠀⠀⠁⠀⢨⠏⣿⣿⣿⣿⣿ | </tspan><tspan class="cc">.................................................</tspan>
+<tspan x="15" y="230">⣿⣿⣿⣿⣿⠃⢛⢧⡄⡀⠀⣠⠖⠁⢀⣿⢻⣿⣿⣿ |- </tspan>Contact ————————————————————————————————————————
+<tspan x="15" y="250">⣿⣿⣿⣿⣿⠀⠀⠀⠹⢽⡉⠀⠀⢀⣾⡟⣿⣿⣿⣿ | </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="cc">............................</tspan><tspan class="value"> max-decman</tspan> 
+<tspan x="15" y="270">⣿⣿⣿⣿⣿⣧⠀⠀⢠⣶⡾⠂⠀⢸⣿⣧⣿⣿⣿⣿ |</tspan> <tspan class="cc">.................................................</tspan>
 </text></svg>
